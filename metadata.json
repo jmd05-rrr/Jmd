@@ -1,0 +1,6 @@
+{
+  "name": "JMD Jewellers",
+  "description": "Luxury Gold, Diamond & Bridal Jewellery showroom in Mohripur, Gorakhpur. 100% BIS Hallmarked 916 gold, live rates, price calculator, and bespoke jewelry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
